@@ -1,4 +1,4 @@
-//fibonacci
+//fibonacci - First 100 terms of Fibonacci series
 let prev1:number = 1;
 let prev2:number = 0;
 let fibo:number = 0;
